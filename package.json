@@ -1,0 +1,28 @@
+{
+  "name": "zhuhaododo",
+  "version": "1.0.0",
+  "description": "do test",
+  "main": "index.js",
+  "scripts": {
+    "test": "run zhuhaododo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuhaobam/zhuhaododo.git"
+  },
+  "keywords": [
+    "dodo"
+  ],
+  "author": "zhuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuhaobam/zhuhaododo/issues"
+  },
+  "homepage": "https://github.com/zhuhaobam/zhuhaododo#readme",
+  "dependencies":{
+
+  },
+  "devDependencies":{
+    
+  }
+}
